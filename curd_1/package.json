@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build":"echo \"No build specified\" && exit 1",
-    "start":"node index.js",
+    "build":"npm i",
+    "start":"nodemon index.js",
     "test": "echo \"No build specified\" && exit 1"
   },
   "author": "",
